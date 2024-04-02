@@ -4,7 +4,7 @@
 
 ![main menu](screenshots/main.png){width=200}
 
-There is a 3x3 grid that contains 6 _tiles_, and one position is _empty_.
+There is a 3x3 grid that contains 8 _tiles_, and one position that is _empty_.
 
 ![grid1.png](screenshots/grid1.png){width=100}
 ![grid2.png](screenshots/grid2.png){width=100}
@@ -90,7 +90,7 @@ chmod +x install.sh&&./install.sh
 
 ### Run
 
-The install script will show you amessege, which will inform you that you can run the script by running:
+The install script will show you a messege, which will inform you that you can run the script by running:
 
 ```
 nine.sh
@@ -100,7 +100,7 @@ nine.sh
 or from the same directory:
 
 ```
-nine.sh
+./nine.sh
 ```
 
 ---
