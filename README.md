@@ -22,7 +22,7 @@ The player in order to win, has to put the numbered tiles in order.
 
 ## Usage
 
-Through the main menu, the player can
+Through the main menu, the player can:
 
 - Start a new game
 
@@ -52,7 +52,7 @@ While playing, the user can:
 - Return to the main menu, hitting `q`
 
 
---- 
+---
 ## Configuring
 
 Either within the game (option `e` of main menu) or just by editing `$HOME/.config/nine/nine.config` file, the user can configure these two parameters:
